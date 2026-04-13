@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: 'Yu Mincho', serif;
+    background: url('back2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fefefe;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+}
+
+.section3 {
+    background-color: rgba(223, 207, 191, 0.3);
+    border-radius: 15px;
+	margin-left: 30px;
+	}
+
+h1 {
+    font-size: 2.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #ffc107;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-top: 1em;
+    margin-bottom: 0;
+    color: #ffeb3b;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0;
+    color: #ffc107;
+    padding-left: 1em;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 2em;
+}
+
+ul li {
+    font-size: 1.2em;
+	line-height: 1.4;
+	margin-top: 0.5em;
+}
+
+.section3 ul {
+    list-style-type: square;
+}
+
+p {
+    padding-left: 3em;
+	line-height: 1.4;
+}
+
+a {
+    color: #ffc107;
+}
+
+p img, li img {
+	display: block;
+	margin: 0.5em auto;
+	max-width: 90%;
+	height: auto;
+	border-radius: 15px;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 1.2em;
+}
