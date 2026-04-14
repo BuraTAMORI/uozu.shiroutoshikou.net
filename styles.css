@@ -69,6 +69,7 @@ a {
 }
 
 p img, li img {
+	display: block;
 	margin: 0.5em auto;
 	max-width: 90%;
 	height: auto;
