@@ -76,6 +76,10 @@ p img, li img {
 	border-radius: 15px;
 }
 
+img.logo {
+  mix-blend-mode: multiply;
+}
+
 footer {
     margin-top: 30px;
     text-align: center;
